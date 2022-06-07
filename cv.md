@@ -4,8 +4,7 @@
 * **Location**: Minsk, Belarus
 * **Phone:** +375 29 543-56-59
 * **Email:** sessorova@gmail.com
-* **GitHub:** [Solyushka][LinkGit][LinkGit][https://github.com/Solyushka)]
-* [Solyushka](https://github.com/Solyushka) "Git profile")
+* **GitHub:** [Solyushka](https://github.com/Solyushka "Git profile")
 
 ## **Briefly About Myself:**
 I'm a business analyst and a good girl.
